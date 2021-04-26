@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Utilities
 
-In the `utils` directory, there is a **`HumanDate`** component that you can use anywhere in your application to display a human-friendly date instead of the unfriendly format that is stored in the API database.
+In the `utils` directory, there is a **`HumanDate`** component you can use anywhere in your application to display a human-friendly date instead of the unfriendly format that is stored in the API database.
 
 
 ## Available Scripts
